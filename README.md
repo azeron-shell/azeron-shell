@@ -22,7 +22,6 @@
   <a href = "mailto:azeron.shell@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.last.fm/user/Butnaru_Dragos" target="_blank"><img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white"></a> 
   
-  
   ![Snake animation](https://github.com/azeron-shell/azeron-shell/blob/output/github-contribution-grid-snake.svg)
   
 </div>
