@@ -25,3 +25,9 @@
   ![Snake animation](https://github.com/azeron-shell/azeron-shell/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+<div>
+<p align="center"> 
+  Visitors<br>
+ <img src="https://profile-counter.glitch.me/azeron-shell/count.svg" />
+ </p>
+</div>
